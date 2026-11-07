@@ -28,3 +28,7 @@ Learn more [about Fasting Host](https://fasting.host/about), or read our [servic
 
 **Website:** [fasting.host](https://fasting.host/)
 
+
+## Public hosting guides
+
+Explore our [Fasting Host documentation project](https://github.com/FastingHost/fasting-host) for all VPS and cPanel plans, resource upgrades, website and SSL guidance, payments, privacy and launch checklists.
